@@ -2,7 +2,7 @@
 
 ## What is this for?
 
-This is for Barenedu academy's daily report system.
+This is for Bareun_edu academy's daily report system.
 
 ## Where is the rest ot the files?
 
